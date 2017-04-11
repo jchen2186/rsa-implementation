@@ -213,23 +213,4 @@ def main():
     else:
         print('That is not a proper instruction.')
 
-    # testing RSA code with Jamie Fung
-    # Jamie's public key (n, e): (377023, 240263)
-
-    # Encrypted message sent to Jamie:
-    # 344088 150428 376648 154638 151006 345944 177280 211860 148795 195453 154638 289984
-    # Decrypted message: heyyy, how goes joba hw?
-
-    # Encrypted message received from Jamie:
-    # 619465 1326518 513568 1284217 550786 1077115 1226809 292837 1250253 137419 647224 906191 1415053
-    # Decrypted message: r u the taki to my mitsuha
-
-    # Encrypted message sent to Jamie:
-    # 209519 343216 81273 18032 277564 272916 121042 171795 255198 198526 345847 77048 61506 132454 26063 312682 295570 149141 105760 295570 149141 223373 94852 315291 58486
-    # Decrypted message: woo~ are you sure you don't want to go to sake? :c
-
-    # Encrypted message received from Jamie:
-    # 1381907 406707 906191 580873 1191760 403012 155840 1204009 846348 647224 1226809 453421
-    # Decrypted message: idk sushi sounds lit tho
-
 main()
